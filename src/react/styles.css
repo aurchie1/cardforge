@@ -2,6 +2,12 @@ body {
   margin: 0;
   padding: 40px;
   font-family: Arial, sans-serif;
-  background: rgb(1, 7, 1);
+  background: rgb(183, 205, 183);
   color: white;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: rgb(10, 7, 7);
 }
